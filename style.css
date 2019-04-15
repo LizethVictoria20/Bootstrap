@@ -1,3 +1,10 @@
-.col {
+.container {
+  padding: 100px;
+  text-align: center;
+}
+.first {
   border: solid 1px coral;
+  background: coral;
+  height: 100px;
+  border: solid 1px white;
 }
