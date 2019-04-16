@@ -36,6 +36,13 @@ main .carousel-inner img {
 .badge span {
   padding: 4px;
 }
+#place-time {
+  background: #343a40;
+  color: white;
+}
+#place-time img {
+  max-width: 100%;
+}
 footer {
   background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
 }
