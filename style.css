@@ -33,6 +33,9 @@ main .carousel-inner img {
   background: #82ad36;
   color: white;
 }
+.badge span {
+  padding: 4px;
+}
 footer {
   background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
 }
